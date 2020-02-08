@@ -1,6 +1,6 @@
 Analysis
 
-This algorithm uses a doubly linked list to implement the LRU cache. 
+This algorithm uses a doubly linked list as the underlying data structure to implement the LRU cache. 
 
 However the doubly linked list has a linear time complexity O(n) for lookups since we traverse through every node from 1 to n which results in a running time that grows directly in proportion to n where n is the number of nodes.
 

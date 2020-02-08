@@ -1,0 +1,7 @@
+Analysis
+
+This algorithm uses recursion to traverse a directory and its subdirectories given its path and append the files matching the given suffix to an array.
+
+Time complexity: The time complexity is quadratic O(n * m) where n is the number of files in the current directory and m is the number of folders when we do recursion
+Space complexity: The space complexity is quadratic O(n * m) where n is the depth of recursion and m is the space each recursive call function occupies
+
