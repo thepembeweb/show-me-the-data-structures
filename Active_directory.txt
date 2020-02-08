@@ -1,0 +1,7 @@
+Analysis
+
+This algorithm uses recursion to go through all the groups present within a group to find out whether a particular
+user is present or not. The function return False if its not there and True if the user is present.
+
+Time complexity: The time complexity is quadratic O(n * m) where n is the number of users and m is the number of subgroups when we do recursion
+Space complexity: The space complexity is quadratic O(n * m) where n is the depth of recursion and m is the space each recursive call function occupies
