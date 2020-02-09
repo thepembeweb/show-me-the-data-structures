@@ -71,7 +71,7 @@ You will take in two linked lists and return a linked list that is composed of e
 
 ## Authors
 
-* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Unscramble Computer Science Problems](https://github.com/thepembeweb/show-me-the-data-structures)
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Show Me the Data Structures](https://github.com/thepembeweb/show-me-the-data-structures)
 
 ## License
 
