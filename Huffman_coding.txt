@@ -13,5 +13,6 @@ Time complexity: The time complexity is superlinear O(n * nlogn) because the cre
 is a recursive function and is called for each element in the sorted_list for the 
 worst-case. So, this along with the use of sorted() function on each call makes the 
 worst-case time complexity of this function as O(n * nlogn).
+
 Space complexity: The space complexity is linear O(n) where n is the input size because 
 the size of the underlying array scales proportionally to the size of the input.
