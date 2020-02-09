@@ -1,6 +1,6 @@
 # Show Me the Data Structures
 
-> This project showcases solutions to six tasks using multiple data structures. It uses Python to analyze and answer questions using clean implamentations and efficient answers. Lastly, it also indicates run time analysis of the solutions and determines its efficiency and design choices.
+> This project showcases solutions to six tasks using multiple data structures. It uses Python to analyze and answer questions using clean implementations and efficient answers. Lastly, it also indicates run time analysis of the solutions and determines its efficiency and design choices.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
